@@ -1,8 +1,34 @@
+
 # Onshape CAD Portfolio
 
-A collection of my 3D models, assemblies, and technical drawings created in [Onshape](https://onshape.com).
+A collection of my 3D models, assemblies, and technical drawings created in [Onshape](https://www.onshape.com).
 
-## Featured Projects (In Progress)
+## Featured Projects (More in progress)
+
+### 1. Flanged Cylindrical Housing with Alignment Pin
+* **Overview:** Axisymmetric flanged component featuring a central bore, mounting bolt pattern, radial alignment pin, and filleted transitions (`R2`).
+* **3D Model:**
+  ![Flanged Cylindrical Housing 3D Model](https://raw.githubusercontent.com/TaherSaleh/Modeling-and-Simulations/main/OnShape-CAD/CAD-1.png)
+* **2D Technical Drawing:** First-angle orthographic projection (A4, Scale 1:2) with full cross-sectional views (`A-A`, `B-B`) and metric dimensions.
+  ![Flanged Cylindrical Housing 2D Drawing](https://raw.githubusercontent.com/TaherSaleh/Modeling-and-Simulations/main/OnShape-CAD/CAD-1.1.png)
+
+---
+
+### 2. Stepped Shaft Support & Angled Mounting Bracket
+* **Overview:** Multi-feature mechanical bracket combining a cylindrical shaft boss, reinforcing gusset rib, counterbored mounting pad, and tapered base plate.
+* **3D Model:**
+  ![Stepped Shaft Support 3D Model](https://raw.githubusercontent.com/TaherSaleh/Modeling-and-Simulations/main/OnShape-CAD/CAD-2.png)
+* **2D Technical Drawing:** First-angle orthographic projection (A4, Scale 1:1) detailing hidden feature lines, counterbore geometry, and isometric view.
+  ![Stepped Shaft Support 2D Drawing](https://raw.githubusercontent.com/TaherSaleh/Modeling-and-Simulations/main/OnShape-CAD/CAD-2.1.png)
+
+---
+
+### 3. Offset Cylindrical Boss & L-Bracket
+* **Overview:** Structural L-bracket integrated with a hollow cylindrical sleeve, internal fillet relief, and clearance mounting bore.
+* **3D Model:**
+  ![Offset Cylindrical Boss 3D Model](https://raw.githubusercontent.com/TaherSaleh/Modeling-and-Simulations/main/OnShape-CAD/CAD-3.png)
+
+---
 
 
 ## Quick Tips for Viewing
