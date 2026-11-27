@@ -5,4 +5,4 @@ This repository serves as the main hub for my modeling, simulation, and CAD work
 
 ## Repository Structure
 * [`/anylogic-simulations`](./Anylogic-Simulations) – Discrete-event, agent-based, and system dynamics models.
-* [`/onshape-cad`](./Onshape-CAD) – 3D parametric models, assemblies, and 2D engineering drawings.
+* [`/Onshape-CAD`](./Onshape-CAD) – 3D parametric models, assemblies, and 2D engineering drawings.
